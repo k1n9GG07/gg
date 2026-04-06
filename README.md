@@ -1,4 +1,4 @@
-## Preveiw ---> (wellcome)[https://k1n9gg07.github.io/delivery-site/]
+## Preveiw ---> [wellcome](https://k1n9gg07.github.io/delivery-site/)
 # 📦 Сборка полнофункциональных приложений  
 ## Контрольная работа (объединение КТ №1, №2, №5)
 
